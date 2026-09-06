@@ -15,9 +15,7 @@ the two disagree, this file wins.
 2. Search the folder before you create. One note per thing.
 3. `03 - Journal/` is Hunter's alone. Open it only when he says so.
 4. Use facts Hunter supplied or sources read this session. Ask about uncertain
-   values or leave them blank. Put any proposed inference in prose, clearly
-   marked unverified. A fact that changes (a price, a count, a retainer)
-   carries `as of YYYY-MM-DD`.
+   values or leave them blank. 
 5. Use the current template for that note type and TaskNotes configuration
    for tasks. An existing note is not permission to introduce a field or
    value. Before you commit, run
