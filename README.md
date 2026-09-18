@@ -17,7 +17,7 @@ Read whatever you need. Write nothing without my permission.
 
 ## Set it up
 
-1. Put `AGENTS.md` and `PROMPT.md` from this repo in your vault folder, next to your notes. If you use Claude Code, add a `CLAUDE.md` containing only `@AGENTS.md`.
+1. Put `AGENTS.md` and `PROMPT.md` from this repo in your vault folder, next to your notes. Claude Code 2.1.277 and later reads `AGENTS.md` directly. On an older version, add a `CLAUDE.md` containing only `@AGENTS.md`.
 2. Open your agent in that folder and paste the contents of `PROMPT.md`.
 3. Answer its questions. Push back. Say "approved" only when the draft is yours.
 4. Delete my `AGENTS.md`. Yours is the one that stays.
